@@ -88,7 +88,7 @@ redirect_from:
           </div>
           <h3>Healthcare Insurance Fraud Detection via Continual Fiedler Vector Graph Model</h3>
           <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Huaidong Zhang, Xuandi Luo, Shengfeng He</p>
-          <p class="publication-card__venue">The Fourteenth International Conference on Learning Representations</p>
+          <p class="publication-card__venue"><em>The Fourteenth International Conference on Learning Representations</em></p>
           <a class="publication-card__link" href="https://openreview.net/forum?id=ZWDvIKMkMG">
             Paper on OpenReview <span aria-hidden="true">↗</span>
           </a>
@@ -121,7 +121,7 @@ redirect_from:
           </div>
           <h3>IntentRAG: Intent-guided Multimodal Long Document Understanding</h3>
           <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Fei Ma</p>
-          <p class="publication-card__venue">ACM International Conference on Multimedia (ACM MM 2026)</p>
+          <p class="publication-card__venue"><em>ACM International Conference on Multimedia (ACM MM 2026)</em></p>
         </div>
         <figure class="publication-card__figure">
           <img src="{{ '/images/publications/intentrag-overview.png' | relative_url }}" alt="IntentRAG intent generation, retrieval, and answer generation pipeline" loading="lazy">
