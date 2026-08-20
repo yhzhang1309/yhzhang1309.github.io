@@ -81,36 +81,54 @@ redirect_from:
 
     <div class="publication-list">
       <article class="publication-card publication-card--featured">
-        <div class="publication-card__meta">
-          <span class="publication-badge publication-badge--accepted">ICLR 2026 · Poster</span>
-          <span>Conference paper</span>
+        <div class="publication-card__content">
+          <div class="publication-card__meta">
+            <span class="publication-badge publication-badge--accepted">ICLR 2026 · Poster</span>
+            <span>Conference paper</span>
+          </div>
+          <h3>Healthcare Insurance Fraud Detection via Continual Fiedler Vector Graph Model</h3>
+          <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Huaidong Zhang, Xuandi Luo, Shengfeng He</p>
+          <p class="publication-card__venue">The Fourteenth International Conference on Learning Representations</p>
+          <a class="publication-card__link" href="https://openreview.net/forum?id=ZWDvIKMkMG">
+            Paper on OpenReview <span aria-hidden="true">↗</span>
+          </a>
         </div>
-        <h3>Healthcare Insurance Fraud Detection via Continual Fiedler Vector Graph Model</h3>
-        <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Huaidong Zhang, Xuandi Luo, Shengfeng He</p>
-        <p class="publication-card__venue">The Fourteenth International Conference on Learning Representations</p>
-        <a class="publication-card__link" href="https://openreview.net/forum?id=ZWDvIKMkMG">
-          Paper on OpenReview <span aria-hidden="true">↗</span>
-        </a>
+        <figure class="publication-card__figure">
+          <img src="{{ '/images/publications/confvg-overview.png' | relative_url }}" alt="ConFVG pretraining and online adaptation framework" loading="lazy">
+          <figcaption>ConFVG framework</figcaption>
+        </figure>
       </article>
 
       <article class="publication-card">
-        <div class="publication-card__meta">
-          <span class="publication-badge">Under Review</span>
-          <span>Journal article</span>
+        <div class="publication-card__content">
+          <div class="publication-card__meta">
+            <span class="publication-badge">Under Review</span>
+            <span>Journal article</span>
+          </div>
+          <h3>DynLearn: Steering Task-Specific Learning Dynamics in Exemplar-Free Class-Incremental Learning</h3>
+          <p class="publication-card__authors">Xuandi Luo, Huaidong Zhang, <strong>Yehan Zhang</strong>, Shengfeng He</p>
+          <p class="publication-card__venue"><em>Neural Networks</em></p>
         </div>
-        <h3>DynLearn: Steering Task-Specific Learning Dynamics in Exemplar-Free Class-Incremental Learning</h3>
-        <p class="publication-card__authors">Xuandi Luo, Huaidong Zhang, <strong>Yehan Zhang</strong>, Shengfeng He</p>
-        <p class="publication-card__venue"><em>Neural Networks</em></p>
+        <figure class="publication-card__figure">
+          <img src="{{ '/images/publications/dynlearn-overview.png' | relative_url }}" alt="DynLearn framework with complexity-evolved distillation and relational temperature scheduling" loading="lazy">
+          <figcaption>DynLearn framework</figcaption>
+        </figure>
       </article>
 
       <article class="publication-card">
-        <div class="publication-card__meta">
-          <span class="publication-badge">Under Review</span>
-          <span>Conference paper</span>
+        <div class="publication-card__content">
+          <div class="publication-card__meta">
+            <span class="publication-badge">Under Review</span>
+            <span>Conference paper</span>
+          </div>
+          <h3>IntentRAG: Intent-guided Multimodal Long Document Understanding</h3>
+          <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Fei Ma</p>
+          <p class="publication-card__venue">ACM International Conference on Multimedia (ACM MM 2026)</p>
         </div>
-        <h3>IntentRAG: Intent-guided Multimodal Long Document Understanding</h3>
-        <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Fei Ma</p>
-        <p class="publication-card__venue">ACM International Conference on Multimedia (ACM MM 2026)</p>
+        <figure class="publication-card__figure">
+          <img src="{{ '/images/publications/intentrag-overview.png' | relative_url }}" alt="IntentRAG intent generation, retrieval, and answer generation pipeline" loading="lazy">
+          <figcaption>IntentRAG pipeline</figcaption>
+        </figure>
       </article>
     </div>
   </section>
