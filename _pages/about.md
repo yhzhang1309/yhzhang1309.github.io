@@ -121,7 +121,7 @@ redirect_from:
           </div>
           <h3>IntentRAG: Intent-guided Multimodal Long Document Understanding</h3>
           <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Fei Ma</p>
-          <p class="publication-card__venue"><em>ACM International Conference on Multimedia (ACM MM 2026)</em></p>
+          <p class="publication-card__venue"><em>The 34th ACM International Conference on Multimedia</em></p>
         </div>
         <figure class="publication-card__figure">
           <img src="{{ '/images/publications/intentrag-overview.png' | relative_url }}" alt="IntentRAG intent generation, retrieval, and answer generation pipeline" loading="lazy">
