@@ -218,16 +218,6 @@ html[data-theme="dark"] {
   max-height: 230px;
   object-fit: contain;
 }
-.publication-card__figure figcaption {
-  margin-top: 0.55rem;
-  color: #5d6b6c;
-  font-size: 0.7rem;
-  font-weight: 650;
-  letter-spacing: 0.04em;
-  text-align: right;
-  text-transform: uppercase;
-}
-
 .research-timeline { position: relative; }
 .research-timeline::before {
   position: absolute;

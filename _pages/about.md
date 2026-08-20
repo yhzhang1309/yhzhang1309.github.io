@@ -95,7 +95,6 @@ redirect_from:
         </div>
         <figure class="publication-card__figure">
           <img src="{{ '/images/publications/confvg-overview.png' | relative_url }}" alt="ConFVG pretraining and online adaptation framework" loading="lazy">
-          <figcaption>ConFVG framework</figcaption>
         </figure>
       </article>
 
@@ -111,7 +110,6 @@ redirect_from:
         </div>
         <figure class="publication-card__figure">
           <img src="{{ '/images/publications/dynlearn-overview.png' | relative_url }}" alt="DynLearn framework with complexity-evolved distillation and relational temperature scheduling" loading="lazy">
-          <figcaption>DynLearn framework</figcaption>
         </figure>
       </article>
 
@@ -127,7 +125,6 @@ redirect_from:
         </div>
         <figure class="publication-card__figure">
           <img src="{{ '/images/publications/intentrag-overview.png' | relative_url }}" alt="IntentRAG intent generation, retrieval, and answer generation pipeline" loading="lazy">
-          <figcaption>IntentRAG pipeline</figcaption>
         </figure>
       </article>
     </div>
