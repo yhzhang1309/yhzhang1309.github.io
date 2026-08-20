@@ -163,7 +163,7 @@ html[data-theme="dark"] {
 .publication-card {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(280px, 38%);
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 34%);
   gap: clamp(1.5rem, 4vw, 3rem);
   align-items: center;
   padding: clamp(1.35rem, 3vw, 2rem);
