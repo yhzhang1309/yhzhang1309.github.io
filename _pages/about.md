@@ -61,10 +61,6 @@ redirect_from:
       </article>
       <article class="academic-news__item">
         <time datetime="2026">2026</time>
-        <p><strong>IntentRAG</strong> is under review at ACM Multimedia 2026.</p>
-      </article>
-      <article class="academic-news__item">
-        <time datetime="2026">2026</time>
         <p><strong>DynLearn</strong> is under review at <em>Neural Networks</em>.</p>
       </article>
     </div>
@@ -113,20 +109,6 @@ redirect_from:
         </figure>
       </article>
 
-      <article class="publication-card">
-        <div class="publication-card__content">
-          <div class="publication-card__meta">
-            <span class="publication-badge">Under Review</span>
-            <span>Conference paper</span>
-          </div>
-          <h3>IntentRAG: Intent-guided Multimodal Long Document Understanding</h3>
-          <p class="publication-card__authors"><strong>Yehan Zhang</strong>, Fei Ma</p>
-          <p class="publication-card__venue"><em>The 34th ACM International Conference on Multimedia</em></p>
-        </div>
-        <figure class="publication-card__figure">
-          <img src="{{ '/images/publications/intentrag-overview.png' | relative_url }}" alt="IntentRAG intent generation, retrieval, and answer generation pipeline" loading="lazy">
-        </figure>
-      </article>
     </div>
   </section>
 
