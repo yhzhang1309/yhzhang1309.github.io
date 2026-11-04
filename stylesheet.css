@@ -191,6 +191,11 @@ h2 {
   font-weight: 700;
 }
 
+.author-note {
+  color: #666;
+  font-size: 12px;
+}
+
 .site-credit {
   padding: 24px 16px 12px;
   text-align: right;
