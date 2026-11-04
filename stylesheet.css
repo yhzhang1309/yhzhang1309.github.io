@@ -129,6 +129,13 @@ h2 {
   border-radius: 50%;
 }
 
+.profile-photo figcaption {
+  margin-top: 8px;
+  color: #777;
+  font-size: 11px;
+  text-align: center;
+}
+
 .profile-links {
   text-align: center;
 }
